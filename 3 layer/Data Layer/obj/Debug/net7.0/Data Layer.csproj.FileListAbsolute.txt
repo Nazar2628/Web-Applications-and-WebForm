@@ -1,0 +1,5 @@
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\Data Layer\obj\Debug\net7.0\Data Layer.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\Data Layer\obj\Debug\net7.0\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\Data Layer\obj\Debug\net7.0\Data Layer.AssemblyInfoInputs.cache
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\Data Layer\obj\Debug\net7.0\Data Layer.AssemblyInfo.cs
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\Data Layer\obj\Debug\net7.0\Data Layer.csproj.CoreCompileInputs.cache

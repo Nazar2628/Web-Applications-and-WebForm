@@ -1,0 +1,9 @@
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\bin\Debug\DAL.dll
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\bin\Debug\DAL.pdb
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\bin\Debug\AppProps.dll
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\bin\Debug\AppProps.pdb
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\obj\Debug\DAL.dll
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "BussinessObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BussinessObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinessObject.dll": {}
+        }
+      },
+      "Data Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BussinessObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BussinessObject/1.0.0": {
+      "type": "project",
+      "path": "../BussinessObject/BussinessObject.csproj",
+      "msbuildProject": "../BussinessObject/BussinessObject.csproj"
+    },
+    "Data Layer/1.0.0": {
+      "type": "project",
+      "path": "../Data Layer/Data Layer.csproj",
+      "msbuildProject": "../Data Layer/Data Layer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Data Layer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Nazar Basha Shaik\\source\\repos\\3 layer\\BussinessLogic\\BussinessLogic.csproj",
+      "projectName": "BussinessLogic",
+      "projectPath": "C:\\Users\\Nazar Basha Shaik\\source\\repos\\3 layer\\BussinessLogic\\BussinessLogic.csproj",
+      "packagesPath": "C:\\Users\\Nazar Basha Shaik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nazar Basha Shaik\\source\\repos\\3 layer\\BussinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nazar Basha Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Nazar Basha Shaik\\source\\repos\\3 layer\\Data Layer\\Data Layer.csproj": {
+              "projectPath": "C:\\Users\\Nazar Basha Shaik\\source\\repos\\3 layer\\Data Layer\\Data Layer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

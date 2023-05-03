@@ -1,0 +1,6 @@
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\AppProps\bin\Debug\AppProps.dll
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\AppProps\bin\Debug\AppProps.pdb
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\AppProps\obj\Debug\AppProps.dll
+C:\Users\Nazar Basha Shaik\source\repos\FirstForm\AppProps\obj\Debug\AppProps.pdb

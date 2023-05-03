@@ -1,0 +1,5 @@
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\BussinessLogic\obj\Debug\net7.0\BussinessLogic.csproj.AssemblyReference.cache
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\BussinessLogic\obj\Debug\net7.0\BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\BussinessLogic\obj\Debug\net7.0\BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\BussinessLogic\obj\Debug\net7.0\BussinessLogic.AssemblyInfo.cs
+C:\Users\Nazar Basha Shaik\source\repos\3 layer\BussinessLogic\obj\Debug\net7.0\BussinessLogic.csproj.CoreCompileInputs.cache
